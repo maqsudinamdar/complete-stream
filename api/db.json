@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "asda",
+      "description": "asdasd",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Other Stream Descr",
+      "id": 2
+    },
+    {
+      "title": "stream with idasdasd",
+      "description": "stream with id descrasd",
+      "id": 3
+    },
+    {
+      "title": "title to list",
+      "description": "descr to list",
+      "userId": "104247136621732258580",
+      "id": 4
+    },
+    {
+      "title": "asda",
+      "description": "asdasd",
+      "userId": "104247136621732258580",
+      "id": 5
+    }
+  ]
+}
